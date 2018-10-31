@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class P2.3 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.print("Enter an integer");
+		System.out.print("Enter an integer: ");
 		int x = in.nextInt();
 		in.close();
 		
